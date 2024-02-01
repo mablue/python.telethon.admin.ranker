@@ -20,10 +20,10 @@ CHAT_ID=<YOUR_CHAT_ID>
 LIMIT=<NUMBER_OF_MESSAGES>
 ```
 
-2. Save the code as `admin_activity_counter.py` and run it using the following command:
+2. Save the code as `.env` and run it using the following command:
 
 ```
-python admin_activity_counter.py
+python main.py
 ```
 
 ### Example Output
